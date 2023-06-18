@@ -1,3 +1,7 @@
+/**
+ * Ceci est une interface TypeScript destinée à formater les propriétés de la classe HousingLocation
+ */
+
 export interface HousingLocation {
     id: number;
     name: string;

@@ -1,3 +1,7 @@
+/**
+ * Ceci est le point d'entrée de notre application, le main de cette dernière
+ */
+
 import { Component } from '@angular/core';
 import { HomeComponent } from './home/home.component';
 
