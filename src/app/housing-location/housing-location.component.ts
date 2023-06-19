@@ -1,3 +1,8 @@
+/**
+ * Pour le moment ceci est notre vue du composant housing-location.
+ * Il construit la vue pour chaque fiche de location disponible.
+ */
+
 import { Component, Input } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HousingLocation } from '../housinglocation';
